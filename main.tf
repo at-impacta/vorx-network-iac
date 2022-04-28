@@ -17,7 +17,6 @@ module "vpc" {
     Environment = "Production"
     CC = "19931204"
     Team = "Impact Devops"
-    OwnerSRE = "Konoha"
   }
 }
 
